@@ -1,52 +1,7 @@
 # sabyasachimyself
-Skip to content
-Navigation Menu
-sabyasachi00718
-sabyasachi
-
-Type / to search
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Commit 850e27d
-sabyasachi00718
-sabyasachi00718
-authored
-on Jun 11
-Verified
-Update README.md
-main
-1 parent 
-6c8b322
- commit 
-850e27d
-File tree
-Filter files…
-README.md
-1 file changed
-+18
--1
-lines changed
-Search within code
- 
-Customizable line height
-The default line height has been increased for improved accessibility. You can choose to enable a more compact line height from the view settings menu.
-
-‎README.md
-+18
--1
-Lines changed: 18 additions & 1 deletion
 
 
-Original file line number	Diff line number	Diff line change
-@@ -1 +1,18 @@
-# sabyasachi
+
 #Hello , I am Sabyasachi Ghosh 
 🧠 Computer Science engineering student with specialization in AIML In SRM Institute Of Science And Technology<br/>
 🏫 I have done my schooling from South Point High School in West Bengal<br/>
